@@ -6,9 +6,9 @@ color:
   saturation: 0.18105184356682003
   rhythmicContrast: 0.4045325715560466
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#17345C'
+    - '#000000'
+    - '#719BB1'
+    - '#EE7FB3'
+    - '#FFE0FF'
 name: joneskurian.com
