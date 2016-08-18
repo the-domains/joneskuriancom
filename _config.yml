@@ -12,3 +12,7 @@ color:
     - '#EE7FB3'
     - '#FFE0FF'
 name: joneskurian.com
+navigation:
+  - name: About
+    url: 'http://joneskurian.com'
+    type: external
